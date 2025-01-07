@@ -45,7 +45,7 @@ This project analyzes FIFA 2018 team performance metrics using **Factor Analysis
 
 ---
 
-## Requirements
+## Author
 Reetika Singh
 
 ---
